@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wairagudaniel
-- 👀 I’m interested in programming, and becoming a software developer.
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming, and software developement.
+- 🌱 Technology is a real passion for me.
+- 💞️ I’m looking to collaborate on various projects.
 - 📫 How to reach me ...
 
 <!---
